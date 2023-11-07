@@ -1,0 +1,25 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+  height: 50px;
+}
+body {
+  margin: 0;
+  background: radial-gradient(#cea7f4, #721af5);
+  
+}
+.page-title {
+  color: hsl(270, 62%, 79%);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: normal;
+  text-align: center;
+  font-size: 6em;
+
+}
